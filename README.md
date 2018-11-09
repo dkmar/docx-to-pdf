@@ -1,6 +1,6 @@
 # Convert Docx files to PDF on macOS 
 Finder "Quick Action" to convert docx files to pdf using headless Microsoft Word
-![](demo.gif)
+![](better_demo.gif)
 ## Installing
 ### Option 1:
 1. Download the zip

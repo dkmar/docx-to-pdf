@@ -1,5 +1,5 @@
 # Convert Docx files to PDF on macOS 
-Finder "Quick Action" to convert docx files to pdf using headless Microsoft Word
+Finder "Quick Action" to convert docx files to pdf using Automator and a bit of AppleScript
 ![](better_demo.gif)
 ## Installing
 ### Option 1:
@@ -12,5 +12,6 @@ cd ~/Library/Services
 wget https://github.com/dkmar/docx-to-pdf/raw/master/DocxToPDF.workflow.zip
 tar xf DocxToPDF.workflow.zip && rm -r DocxToPDF.workflow.zip
 ```
-
+## Basic Automator Workflow
+![](DocxToPDF.workflow/Contents/QuickLook/Preview.png?raw=true)
 Note: tested on macOS 10.14 mojave

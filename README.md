@@ -1,5 +1,5 @@
 # Convert Docx files to PDF on macOS 
-Finder "Quick Action" to convert docx files to pdf using Automator and a bit of AppleScript
+Finder "Quick Action" to convert docx files to pdf using Automator and a bit of AppleScript(😂)
 ![](better_demo.gif)
 ## Installing
 ### Option 1:
